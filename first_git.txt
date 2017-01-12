@@ -1,0 +1,9 @@
+This text file is located in a repository on my GitHub page (https://github.com/nick-holt) called ANLY531_GitPractice, and will be used in the first Git assignment for ANLY 531. 
+
+Please edit the text below so that your name and a link to your personal GitHub account is added to the course roster.
+
+Course Roster:
+
+Name:                       Link:
+1. Nick Holt (Instructor) - https://github.com/nick-holt
+2.
