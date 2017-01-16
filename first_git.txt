@@ -7,4 +7,4 @@ Course Roster:
 Name:                       Link:
 1. Nick Holt (Instructor) - https://github.com/nick-holt
 2. Nick Holt (instructor) - google.com
-3. Patrick P
+3. Patrick Passafiume
